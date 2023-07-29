@@ -1,6 +1,6 @@
-// 配置地址 --> clan://localhost/TVBox/1818.json
+// 配置地址 --> clan://localhost/TVBox/1800.json
 {
-"spider":"clan://TVBox/1818.jar",
+"spider":"clan://TVBox/1800.jar",
 "lives": [{
     "group": "redirect",
     "channels": [{
