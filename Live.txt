@@ -1,3 +1,16 @@
+LIVE GAMES,#genre#
+
+GAME1,https://us.livenflstream.xyz/playlist/stream_1.m3u8
+GAME2,https://us.livenflstream.xyz/playlist/stream_4.m3u8
+GAME3,https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
+Source1,https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8
+Source2,https://us.livenflstream.xyz/playlist/stream_1.m3u8
+Source3,https://us.livenflstream.xyz/playlist/stream_2.m3u8
+Source4,https://us.livenflstream.xyz/playlist/stream_3.m3u8
+
+
+
+LIVE CH,#genre#
 BBC1,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
 BBC2,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
 BBCEarthTamil,http://198.16.100.90:8278/bbcearthtam_raj/playlist.m3u8?tid=MF2F6939094669390946&ct=19254&tsum=7f5b392d1da73ab5861f925702fa1da0
