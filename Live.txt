@@ -1,4 +1,5 @@
 LIVE GAMES,#genre#
+GAME6,https://us.livenflstream.xyz/playlist/stream_6.m3u8
 GAME5,https://us.livenflstream.xyz/playlist/stream_5.m3u8
 GAME4,https://us.livenflstream.xyz/playlist/stream_2.m3u8
 GAME1,https://us.livenflstream.xyz/playlist/stream_1.m3u8
