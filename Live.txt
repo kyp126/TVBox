@@ -1,11 +1,13 @@
 LIVE GAMES,#genre#
-MU-RCL,https://storage.googleapis.com:443/rbsttx11/mux_video_ts1/index-1.m3u8
-GAME6,https://us.livenflstream.xyz/playlist/stream_6.m3u8
-GAME5,https://us.livenflstream.xyz/playlist/stream_5.m3u8
-GAME4,https://us.livenflstream.xyz/playlist/stream_2.m3u8
+
 GAME1,https://us.livenflstream.xyz/playlist/stream_1.m3u8
-GAME2,https://us.livenflstream.xyz/playlist/stream_4.m3u8
+GAME2,https://us.livenflstream.xyz/playlist/stream_2.m3u8
 GAME3,https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
+
+GAME4,https://us.livenflstream.xyz/playlist/stream_4.m3u8
+GAME5,https://us.livenflstream.xyz/playlist/stream_5.m3u8
+GAME6,https://us.livenflstream.xyz/playlist/stream_6.m3u8
+
 Source1,https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8
 Source2,https://us.livenflstream.xyz/playlist/stream_1.m3u8
 Source3,https://us.livenflstream.xyz/playlist/stream_2.m3u8
