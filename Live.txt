@@ -1,6 +1,7 @@
 LIVE GAMES,#genre#
+SPA-SWE,https://content-aaps1.uplynk.com/multiple/9a497a6ee69441c69371499105effbcc,a92f00a0230543879c3d741a9823a304,8cf14e3d244245f4addd5bbed48a343d/f.m3u8?pbs=73a3cb6bc99f4c15bddf4681b488b8fb&mbtracks=1
 L1,https://us.catchystream.xyz/playlist/stream_1.m3u8
-L2,https://jggk.9novel.to:8443/hls/qAV7kHiV70Ol/index.m3u8?st=C2MHhR1MKV8_-rA0CkPCvw&e=1692096078
+
 GAME1,https://us.livenflstream.xyz/playlist/stream_1.m3u8
 GAME2,https://us.livenflstream.xyz/playlist/stream_2.m3u8
 GAME3,https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
