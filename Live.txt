@@ -1,6 +1,5 @@
-US L.CUP,#genre#
-Phila-Miami,https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/5530036774001/88c75e6b-0b2b-4341-bb06-5aafcbd0d7b3/10s/master.m3u8?fastly_token=NjZiZGE0YTFfZjY0ZDU5MGNmZWRjM2I5ZTY5YTk4MjgxMjcxNjQxYjc3ZTc3Y2I5ODMxOWE4YmJlOTliYzcwNDc1N2ZmNWNlMA%3D%3D&pubid=6006779175001
-
+WC WM,#genre#
+AUS-ENG,https://content-aaps1.uplynk.com/multiple/9a497a6ee69441c69371499105effbcc,afccd1419f94400eaceb02efad973648,8cf14e3d244245f4addd5bbed48a343d/f.m3u8?pbs=16aa19a02f8d47e98c4431484c67d3a5&mbtracks=1
 
 LIVE GAMES,#genre#
 
