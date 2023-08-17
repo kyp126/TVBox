@@ -1,5 +1,3 @@
-WC W.MEN,#genre#
-AUS-ENG,https://content-aaps1.uplynk.com/multiple/9a497a6ee69441c69371499105effbcc,afccd1419f94400eaceb02efad973648,8cf14e3d244245f4addd5bbed48a343d/f.m3u8?pbs=16aa19a02f8d47e98c4431484c67d3a5&mbtracks=1.m3u
 
 
 LIVE GAMES,#genre#
