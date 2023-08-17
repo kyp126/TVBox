@@ -1,4 +1,10 @@
 
+SUPER CUP,#genre#
+MCI-SEV,https://pcx2v2i50ur9.lions-vidcdn.com/v/01/00476/987r7e39idvx_n/n.mp4?t=PbXRp1iU1HJ6EHmRiIMB4RCGnJyZyl8JQXYU9S2f2rw&s=1692227077&e=129600&f=2382758&sp=300&i=0.0#https://po.vstreamnnetwork.com:443/UpFiles/2023/8/17/51/260725/720p.m3u8
+MC 1HF,https://ok6-12.vkuser.net/expires/1692352390767/srcIp/124.246.93.204/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/Q-aTGsPLttA/ct/8/urls/45.136.21.27%3B185.226.52.33/clientType/0/zs/43/id/5036471486984/video/
+MC 2HF,https://ok6-9.vkuser.net/expires/1692352719132/srcIp/124.246.93.204/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/vJxxTVaHSEI/ct/8/urls/185.226.52.36%3B185.226.53.45/clientType/0/zs/43/id/5036616256008/video/
+MCI TROPHY,https://ok6-2.vkuser.net/expires/1692352751830/srcIp/124.246.93.204/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/hATkuxYxPEk/ct/8/urls/45.136.20.21%3B185.226.52.35/clientType/0/zs/43/id/5036606163464/video/
+
 
 LIVE GAMES,#genre#
 
