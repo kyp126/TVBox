@@ -7,7 +7,8 @@ LIVE GAMES,#genre#
 
 
 L1,https://us.catchystream.xyz/playlist/stream_1.m3u8
-
+L2,https://us.catchystream.xyz/playlist/stream_2.m3u8
+L3,https://us.catchystream.xyz/playlist/stream_3.m3u8
 GAME1,https://m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8
 
 GAME2,https://m4iswbjnhzrz.fordems.live/live/for-dems2/chunks.m3u8
