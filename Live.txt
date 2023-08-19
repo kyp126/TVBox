@@ -2,12 +2,13 @@
 R2 PL,#genre#
 NFO-SHE,https://po.vstreamnnetwork.com:443/UpFiles/2023/8/18/42/260791/720p.m3u8
 
-NFO FULL(原生),https://2453340480.tapecontent.net/radosgw/OAbvrVPO9YiZ009/_B-PtqdIO2e6ROYI6V5I8G_1Flav7XuWockKf1H2JNEhscUy1YvG99Loqyb8RS2X1zsSVQoWSjncE9JovtK839nK3BydF1r10p1yF8ubW7pJyf4GxfPOihk-Sdkw76Kk36mMk7JPX-31AAIgo3Lcs_IydEViBlV8s1wccsop614TfGYlWDnMspAgHq0ZtipmLOwi-VmtdSwmoCk4LhGak6OeAjDvmAgjqkNakwg0N55Tg7MkMvjAo62yzjsIuoZCoUahhkFtnQRHkeARWegcIoVtUedVsu_waOMiDAzDaWZXrlRA6vMP5HU6GeA/NF+vs+SHE+-+Full+Match+-+USA.mp4?dl=1
+NFO FULL,https://2453340480.tapecontent.net/radosgw/OAbvrVPO9YiZ009/_B-PtqdIO2e6ROYI6V5I8G_1Flav7XuWockKf1H2JNEhscUy1YvG99Loqyb8RS2X1zsSVQoWSjncE9JovtK839nK3BydF1r10p1yF8ubW7pJyf4GxfPOihk-Sdkw76Kk36mMk7JPX-31AAIgo3Lcs_IydEViBlV8s1wccsop614TfGYlWDnMspAgHq0ZtipmLOwi-VmtdSwmoCk4LhGak6OeAjDvmAgjqkNakwg0N55Tg7MkMvjAo62yzjsIuoZCoUahhkFtnQRHkeARWegcIoVtUedVsu_waOMiDAzDaWZXrlRA6vMP5HU6GeA/NF+vs+SHE+-+Full+Match+-+USA.mp4?dl=1
 
 
 LIVE GAMES,#genre#
 
 L1,https://us.catchystream.xyz/playlist/stream_1.m3u8
+L2,https://work.realbitsport.com/live/n-3/chunks.m3u8
 
 GAME1,https://us.livenflstream.xyz/playlist/stream_1.m3u8
 GAME2,https://us.livenflstream.xyz/playlist/stream_2.m3u8
