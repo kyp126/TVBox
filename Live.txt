@@ -3,7 +3,7 @@
 
 
 LIVE GAMES,#genre#
-EVE1,https://livenflstream.xyz/playlist/stream_1.m3u8
+
 P1,https://livenflstream.xyz/playlist/stream_1.m3u8
 P2,https://livenflstream.xyz/playlist/stream_2.m3u8
 P3,https://livenflstream.xyz/playlist/stream_3.m3u8
