@@ -12,11 +12,11 @@ L1,https://us.catchystream.xyz/playlist/stream_1.m3u8
 L2,https://us.catchystream.xyz/playlist/stream_2.m3u8
 L3,https://us.catchystream.xyz/playlist/stream_3.m3u8
 
-GAME1,https://m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8
-GAME2,https://m4iswbjnhzrz.fordems.live/live/for-dems2/chunks.m3u8
-GAME3,https://m4iswbjnhzrz.fordems.live/live/for-dems3/chunks.m3u8
-GAME4,https://m4iswbjnhzrz.fordems.live/live/for-dems4/chunks.m3u8
-GAME5,https://m4iswbjnhzrz.fordems.live/live/for-dems5/chunks.m3u8
+GAME1,https://forlive01.fordems.live/live/for-dems1/chunks.m3u8
+GAME2,https://forlive01.fordems.live/live/for-dems2/chunks.m3u8
+GAME3,https://forlive01.fordems.live/live/for-dems3/chunks.m3u8
+GAME4,https://forlive01.fordems.live/live/for-dems4/chunks.m3u8
+GAME5,https://forlive01.fordems.live/live/for-dems5/chunks.m3u8
 
 
 Source1,https://sportsleading.online/live/stream_1.m3u8
